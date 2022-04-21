@@ -1,6 +1,60 @@
 /* Archivo de estilos */
 
+body {
+background-color: #FAF6ED ;
+}
+
 img{
-  width: auto;
-  height: auto;
+  width: 32%;
+  height: 80%;
+}
+
+.materia{
+color: #F2558B;
+font-family: 'Raleway', sans-serif;
+} 
+
+#name{
+color: #A86D82;
+font-family: 'Raleway', sans-serif;
+}
+
+.azul {
+color : #F2558B; 
+font-family: 'Raleway', sans-serif;
+}
+
+.ocre {
+color: #A86D82;
+font-family: 'Raleway', sans-serif;
+}
+
+.carac{
+color: #F2558B;
+font-family: 'Raleway', sans-serif;
+}
+
+.ord {
+color: #A86D82;
+font-family: 'Raleway', sans-serif;
+}
+
+.noord {
+color: #A86D82;
+font-family: 'Raleway', sans-serif;
+}
+
+.parra1 {
+color: #6086A8;
+font-family: 'Raleway', sans-serif;
+}
+
+.parra2 {
+color: #6086A8;
+font-family: 'Raleway', sans-serif;
+}
+
+.fuente {
+color: #F2558B;
+font-family: 'Raleway', sans-serif;
 }
