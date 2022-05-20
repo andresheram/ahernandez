@@ -1,0 +1,155 @@
+/* Archivo de estilos */
+
+body {
+  background-color: #ffffff;
+}
+/*color del fondo de la pag
+
+
+/* #tabla{
+    width: auto;
+    height: auto;
+} */
+
+
+img.escudo{
+  width: 90%;
+}
+
+#fondoescudo{
+	background: #f24c3d;
+	}
+
+.carrera {
+	font-size: 15px;
+	background: #f29727;
+	color: #ffffff;
+	font-family: 'Nunito', sans-serif;
+	}
+	
+.materia {
+	font-size: 12px;
+	background: #f29727;
+	color: #ffffff;
+	font-family: 'Nunito', sans-serif;
+	}
+img.cc{
+  width: 10%;
+}
+
+.header {
+  text-align: center;
+}
+
+#name {
+color: #009ece;
+font-family: 'Ms Madi', cursive;
+font-size: 50px;
+}
+
+.name {
+color: #282C34;
+font-family: 'Ms Madi', cursive;
+font-size: 20px;
+}
+
+div.a {
+  text-align: center;
+}
+
+.qgiscloud{
+  width: 100% !important;
+  height: 500px;
+
+}
+
+a:link {
+  color: #ffffff;
+  background: #26a699;
+}
+
+
+a:visited {
+  color: #ffffff;
+}
+/*el color que se pone cuando te paras sobre el link*/
+a:hover {
+  border-bottom: 1px solid;
+  background: #81e3d9;
+}
+/*titulo pagina*/
+#titgeo{
+  color: #ffffff;
+  background: #511f73;
+  font-size: 50px;
+  font-family: 'Nunito', sans-serif;
+}
+
+
+/*recuadro del geovisualizador*/
+.mapa{
+color:#ffffff;
+background: #511f73;
+font-family: 'Nunito', sans-serif;
+}
+
+/*font-family: 'Nunito', sans-serif;*/ 
+/* es el codigo para la letra italica*/
+
+.creative{
+	color:#ffffff;
+	background: #26a699;
+	font-family: 'Nunito', sans-serif;
+	font-size: 15px;
+}
+
+.inicio{
+	color:#ffffff;
+	background:#26a699;
+	font-family: 'Nunito', sans-serif;
+	font-size: 20px;
+}
+.Andres{
+	color:#ffffff;
+	background:#26a699;
+	font-family: 'Nunito', sans-serif;
+	font-size: 20px;
+}
+
+.Jaz{
+	color:#ffffff;
+	background:#26a699;
+	font-family: 'Nunito', sans-serif;
+	font-size: 20px;
+}
+.Pedro{
+	color:#ffffff;
+	background:#26a699;
+	font-family: 'Nunito', sans-serif;
+	font-size: 20px;
+}
+.Lalo{
+	color:#ffffff;
+	background:#26a699;
+	font-family: 'Nunito', sans-serif;
+	font-size: 20px;
+}
+.Valeria{
+	color:#ffffff;
+	background:#26a699;
+	font-family: 'Nunito', sans-serif;
+	font-size: 20px;
+}	
+.Alvaro{
+	color:#ffffff;
+	background:#26a699;
+	font-family: 'Nunito', sans-serif;
+	font-size: 20px;
+}
+.explicacion{
+color:#ffffff;
+	background:#f2be22;
+	font-family: 'Nunito', sans-serif;
+	font-size: 20px;
+	overflow:scroll;
+	}

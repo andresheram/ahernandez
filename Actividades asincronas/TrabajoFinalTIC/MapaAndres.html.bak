@@ -33,7 +33,7 @@
       <table id="tabla" style="width:100%; height:100%;">
       <tr>
         <td class="inicio"><a href="Index.html" target="_self">Inicio</a></td>
-        <td class ="Andres"><a href="MapaAndres.html" target="_self">Gentrificación </a></td>
+        <td class ="Andres"><a href="MapaPrueba.html" target="_self">Gentrificación </a></td>
         <td class="Jaz"><a href= "Mapa Jaz.html" target ="_self">Segregación socioespacial en Mérida</td>
         <td class="Pedro"><a href= "MapaPedro.html" target ="_self">Lengua indígena</td>
         <td class="Lalo"><a href= "MapaLalo.html" target ="_self">Migración</td>
